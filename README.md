@@ -1,4 +1,4 @@
-<h1 align="center">I'm <a href="https://github.com/Aryagm">CHRISTOPHER<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/CHRISTOPHERP43Z">CHRISTOPHER<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
 Welcome to my profile!
