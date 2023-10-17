@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">I'm <a href="https://github.com/Aryagm">CHRISTOPHER<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
 
-<!--
-**CHRISTOPHERP43Z/CHRISTOPHERP43Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile!
 
-Here are some ideas to get you started:
+Passionate Software Engineering student in constant search for knowledge and growth. Focused on specializing in backend development, with interest in frontend and aspirations to be a fullstack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=CHRISTOPHERP43Z&style=for-the-badge" />
+
+---
+
+### Language and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,php,mysql,idea,git,github,vscode,figma,discord" />
+  </a>
+</p>
+
+
+---
+![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHRISTOPHERP43Z&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISTOPHERP43Z&layout=compact)
+
+
