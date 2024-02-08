@@ -12,7 +12,7 @@ Passionate Software Engineering student in constant search for knowledge and gro
 ### Language and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,php,mysql,idea,git,github,vscode,figma,discord" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,php,mysql,git,github,vscode,figma,discord" />
   </a>
 </p>
 
